@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Abstract</title>
+</head>
+<body>
+
+<h1>The Digital Home</h1>
+<h3>A Smart Home Management system</h3>
+
+<p>"Smart home as a segment is a business that's been about to 
+take off for about 40 years" </p>
+<p>     Daniel Rausch, VP of smart home at amazone</p>
+
+<h2>Market research (an overview)</h2>
+
+<h2>Smart home gadgets:</h2>
+
+<p>Many companies are building devices for specific user needs in the 
+household.</p>
+
+<p>Each of these gadgets is usually paired with a mobile application to 
+control it from</p>
+
+<p>Like automated door-lock systems that can be monitored and controlled 
+with a mobile application</p>
+
+<p>One common problem with this approach is overwhelming the user with many applications and many user interfaces.</p>
+
+<p>More important problem is the issue of security as many of these devices can present an opportunity for hackers or cyberattacks </p> 
+
+<h2>Smart home operating systems</h2>
+
+<p>Few companies have started recently to provide central operating systems that controls the functionalities of many smart home devices
+simultaneously, like Whole home control, Echo and Google home.</p>
+
+<p>This approach can provide a simpler and more pleasant user experience and provide higher security level by limiting access points to the home network.</p>
+
+<p>However, for some reason these companies have chosen a voice activated user interface for these operating systems, which might sound compelling in a si-fi movies kind of way</p>
+
+<p>Nevertheless, as real-life user experience this approach lacks a lot of functionality and fails to provide a straight forward access to the system</p>
+
+<h2>The Digital Home project proposal:</h2>
+
+<p>The aim of this project is to propose a simpler and more ridged user interface design and Architecture for a central smart home operating system.</p>
+
+<p>Starting with a more comprehensive research on the existing technology in the field of smart homes studying the good and bad aspects of each approach </p>
+
+<p>Then proposing an optimal architecture for such a system in a standard living space fitted with smart gadgets based on the existing technology </p>
+
+<p>Finally designing a more user friendly interface for this system that's based on interactive visual output devices (tough screens)</p>
+
+<p>that can be compared to the transaction from the command based Dos OS to the visual interaction based Windows OS</p>
+
+<p></p>
+
+</body>
+</html>
